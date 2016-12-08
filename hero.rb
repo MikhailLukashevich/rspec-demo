@@ -22,5 +22,5 @@ class Hero
 
 end
 
-hero = Hero.new 'mike'
-puts hero.name
+#hero = Hero.new 'mike'
+#puts hero.name
